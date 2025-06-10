@@ -1,0 +1,4 @@
+--------random meme generator
+--Math.floor() used to round to lowest number
+--Math.randnom() used to generate a random number between the images and --captions
+--randomindex for each was used to iterate the random generated numbers to --images/captions

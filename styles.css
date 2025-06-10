@@ -21,6 +21,8 @@ body {
 
 #random-meme {
   border-radius: 5px;
+  width: 600px;
+  height: 500px;
 }
 
 #random-caption {
